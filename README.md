@@ -9,6 +9,15 @@
 
 
 <h1 align="center">FoodMetrix AI</h1>
+<p align="center">
+  <a href="https://pollinations.ai" target="_blank">
+    <img src="https://img.shields.io/badge/Built%20With-pollinations.ai-black?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  Powered by <a href="https://pollinations.ai" target="_blank">pollinations.ai</a>
+</p>
 
 ###
 
